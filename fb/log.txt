@@ -1448,3 +1448,13 @@
 [√] Frame: 1458, Episode 23 https://facebook.com/122215223954068249
 [√] Frame: 1459, Episode 23 https://facebook.com/122215224398068249
 [√] Frame: 1460, Episode 23 https://facebook.com/122215224866068249
+[√] Frame: 1461, Episode 23 https://facebook.com/122215232030068249
+[√] Frame: 1462, Episode 23 https://facebook.com/122215232594068249
+[√] Frame: 1463, Episode 23 https://facebook.com/122215233104068249
+[√] Frame: 1464, Episode 23 https://facebook.com/122215233884068249
+[√] Frame: 1465, Episode 23 https://facebook.com/122215234736068249
+[√] Frame: 1466, Episode 23 https://facebook.com/122215235204068249
+[√] Frame: 1467, Episode 23 https://facebook.com/122215235618068249
+[√] Frame: 1468, Episode 23 https://facebook.com/122215236128068249
+[√] Frame: 1469, Episode 23 https://facebook.com/122215236596068249
+[√] Frame: 1470, Episode 23 https://facebook.com/122215237580068249
