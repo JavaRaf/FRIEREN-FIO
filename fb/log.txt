@@ -1748,3 +1748,13 @@
 [√] Frame: 1758, Episode 23 https://facebook.com/122215744796068249
 [√] Frame: 1759, Episode 23 https://facebook.com/122215745174068249
 [√] Frame: 1760, Episode 23 https://facebook.com/122215745594068249
+[√] Frame: 1761, Episode 23 https://facebook.com/122215750580068249
+[√] Frame: 1762, Episode 23 https://facebook.com/122215751048068249
+[√] Frame: 1763, Episode 23 https://facebook.com/122215751480068249
+[√] Frame: 1764, Episode 23 https://facebook.com/122215751918068249
+[√] Frame: 1765, Episode 23 https://facebook.com/122215752314068249
+[√] Frame: 1766, Episode 23 https://facebook.com/122215752758068249
+[√] Frame: 1767, Episode 23 https://facebook.com/122215753280068249
+[√] Frame: 1768, Episode 23 https://facebook.com/122215753892068249
+[√] Frame: 1769, Episode 23 https://facebook.com/122215754270068249
+[√] Frame: 1770, Episode 23 https://facebook.com/122215754666068249
