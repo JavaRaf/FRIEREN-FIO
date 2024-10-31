@@ -1848,3 +1848,13 @@
 [√] Frame: 1858, Episode 23 https://facebook.com/122215905404068249
 [√] Frame: 1859, Episode 23 https://facebook.com/122215905956068249
 [√] Frame: 1860, Episode 23 https://facebook.com/122215906448068249
+[√] Frame: 1861, Episode 23 https://facebook.com/122215914584068249
+[√] Frame: 1862, Episode 23 https://facebook.com/122215915046068249
+[√] Frame: 1863, Episode 23 https://facebook.com/122215915604068249
+[√] Frame: 1864, Episode 23 https://facebook.com/122215916108068249
+[√] Frame: 1865, Episode 23 https://facebook.com/122215916642068249
+[√] Frame: 1866, Episode 23 https://facebook.com/122215917050068249
+[√] Frame: 1867, Episode 23 https://facebook.com/122215917530068249
+[√] Frame: 1868, Episode 23 https://facebook.com/122215918046068249
+[√] Frame: 1869, Episode 23 https://facebook.com/122215918538068249
+[√] Frame: 1870, Episode 23 https://facebook.com/122215918970068249
