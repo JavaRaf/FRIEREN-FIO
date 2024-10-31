@@ -1818,3 +1818,13 @@
 [√] Frame: 1828, Episode 23 https://facebook.com/122215854278068249
 [√] Frame: 1829, Episode 23 https://facebook.com/122215854896068249
 [√] Frame: 1830, Episode 23 https://facebook.com/122215855484068249
+[√] Frame: 1831, Episode 23 https://facebook.com/122215868240068249
+[√] Frame: 1832, Episode 23 https://facebook.com/122215868786068249
+[√] Frame: 1833, Episode 23 https://facebook.com/122215869440068249
+[√] Frame: 1834, Episode 23 https://facebook.com/122215870052068249
+[√] Frame: 1835, Episode 23 https://facebook.com/122215870544068249
+[√] Frame: 1836, Episode 23 https://facebook.com/122215871228068249
+[√] Frame: 1837, Episode 23 https://facebook.com/122215871750068249
+[√] Frame: 1838, Episode 23 https://facebook.com/122215872320068249
+[√] Frame: 1839, Episode 23 https://facebook.com/122215872890068249
+[√] Frame: 1840, Episode 23 https://facebook.com/122215873484068249
