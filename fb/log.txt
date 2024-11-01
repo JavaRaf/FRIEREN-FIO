@@ -1898,3 +1898,13 @@
 [√] Frame: 1908, Episode 23 https://facebook.com/122215965914068249
 [√] Frame: 1909, Episode 23 https://facebook.com/122215966544068249
 [√] Frame: 1910, Episode 23 https://facebook.com/122215967036068249
+[√] Frame: 1911, Episode 23 https://facebook.com/122215971056068249
+[√] Frame: 1912, Episode 23 https://facebook.com/122215971410068249
+[√] Frame: 1913, Episode 23 https://facebook.com/122215972532068249
+[√] Frame: 1914, Episode 23 https://facebook.com/122215972976068249
+[√] Frame: 1915, Episode 23 https://facebook.com/122215973498068249
+[√] Frame: 1916, Episode 23 https://facebook.com/122215974122068249
+[√] Frame: 1917, Episode 23 https://facebook.com/122215974656068249
+[√] Frame: 1918, Episode 23 https://facebook.com/122215975196068249
+[√] Frame: 1919, Episode 23 https://facebook.com/122215975784068249
+[√] Frame: 1920, Episode 23 https://facebook.com/122215976312068249
