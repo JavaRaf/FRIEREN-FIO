@@ -2048,3 +2048,13 @@
 [√] Frame: 2058, Episode 23 https://facebook.com/122216170838068249
 [√] Frame: 2059, Episode 23 https://facebook.com/122216171396068249
 [√] Frame: 2060, Episode 23 https://facebook.com/122216171996068249
+[√] Frame: 2061, Episode 23 https://facebook.com/122216192222068249
+[√] Frame: 2062, Episode 23 https://facebook.com/122216192642068249
+[√] Frame: 2063, Episode 23 https://facebook.com/122216193056068249
+[√] Frame: 2064, Episode 23 https://facebook.com/122216193608068249
+[√] Frame: 2065, Episode 23 https://facebook.com/122216194070068249
+[√] Frame: 2066, Episode 23 https://facebook.com/122216194580068249
+[√] Frame: 2067, Episode 23 https://facebook.com/122216195216068249
+[√] Frame: 2068, Episode 23 https://facebook.com/122216195780068249
+[√] Frame: 2069, Episode 23 https://facebook.com/122216196212068249
+[√] Frame: 2070, Episode 23 https://facebook.com/122216196818068249
