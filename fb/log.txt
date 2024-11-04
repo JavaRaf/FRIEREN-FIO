@@ -2238,3 +2238,13 @@
 [√] Frame: 2248, Episode 23 https://facebook.com/122216504270068249
 [√] Frame: 2249, Episode 23 https://facebook.com/122216504678068249
 [√] Frame: 2250, Episode 23 https://facebook.com/122216505068068249
+[√] Frame: 2251, Episode 23 https://facebook.com/122216514614068249
+[√] Frame: 2252, Episode 23 https://facebook.com/122216515058068249
+[√] Frame: 2253, Episode 23 https://facebook.com/122216515700068249
+[√] Frame: 2254, Episode 23 https://facebook.com/122216516318068249
+[√] Frame: 2255, Episode 23 https://facebook.com/122216516714068249
+[√] Frame: 2256, Episode 23 https://facebook.com/122216517200068249
+[√] Frame: 2257, Episode 23 https://facebook.com/122216517722068249
+[√] Frame: 2258, Episode 23 https://facebook.com/122216518226068249
+[√] Frame: 2259, Episode 23 https://facebook.com/122216518808068249
+[√] Frame: 2260, Episode 23 https://facebook.com/122216519324068249
